@@ -9,7 +9,7 @@ Implementação do aplicativo Android GranaFy em Java, seguindo a arquitetura de
 ## Tasks
 
 - [ ] 1. Configurar estrutura do projeto e dependências Gradle
-  - [ ] 1.1 Criar estrutura de pacotes Java no módulo `app`
+  - [-] 1.1 Criar estrutura de pacotes Java no módulo `app`
     - Criar os pacotes: `data.model`, `data.dao`, `data.repository`, `data.repository.impl`, `business`, `presentation.activity`, `presentation.fragment`, `presentation.adapter`, `util`
     - Criar arquivo `AppDatabase.java` vazio no pacote `data`
     - _Requirements: 10.1_
